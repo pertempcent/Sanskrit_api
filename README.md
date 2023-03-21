@@ -53,4 +53,4 @@
 
 ## Model training results
 
-[20230321_100526_result.jpeg](assets/20230321_100526_result.jpeg)
+![result](https://user-images.githubusercontent.com/74292699/226518211-9617ef95-bd63-483a-8461-29f247ddbf90.jpeg)
