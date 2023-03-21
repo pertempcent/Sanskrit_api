@@ -26,23 +26,31 @@
 | 21      | 01:06:45 | 751             | M          | Unknown         | [](https://archive.org/details/bAlamodinI-01,%20https://archive.org/details/bAlamodinI-02,%20https://archive.org/details/bAlamodinI-03,%20https://archive.org/details/bAlamodinI-04,%20https://archive.org/details/bAlamodinI-05https:/) |   |   |   |   |
 | 22      | 01:14:45 | 494             | F          | Unknown         | [https://archive.org/details/YatharthGeetaSanskritAudio]()                                                                                                                                                                               |   |   |   |   |
 | 23      | 01:00:38 | 494             | M          | Malayalam       | [https://www.youtube.com/watch?v=LJGjfHHHBoQ&list=PLweW3Lyr2megkCt7BtiYSkLEDTqUscMjX]()                                                                                                                                                  |   |   |   |   |
-| 24      | 00:11:49 | 107             | M          | Tamil           | [[https://www.youtube.com/playlist?list=PLU_wtJLe_Aud9W8DomYju5ipDvYIapwL2](https://www.youtube.com/playlist?list=PLU_wtJLe_Aud9W8DomYju5ipDvYIapwL2)]()                                                                         |   |   |   |   |
+| 24      | 00:11:49 | 107             | M          | Tamil           | [[https://www.youtube.com/playlist?list=PLU_wtJLe_Aud9W8DomYju5ipDvYIapwL2](https://www.youtube.com/playlist?list=PLU_wtJLe_Aud9W8DomYju5ipDvYIapwL2)]()                                                                                 |   |   |   |   |
 | 25      | 02:09:40 | 923             | M          | Hindi           | [[https://www.youtube.com/playlist?list=PLU_wtJLe_Aud9W8DomYju5ipDvYIapwL2](https://www.youtube.com/playlist?list=PLU_wtJLe_Aud9W8DomYju5ipDvYIapwL2)])                                                                                  |   |   |   |   |
 | 26      | 00:57:10 | 517             | M          | Telegu          | [https://sanskritdocuments.org/sites/manogatam/]()                                                                                                                                                                                       |   |   |   |   |
 | 27      | 01:04:06 | 737             | M          | Hindi           | [https://archive.org/details/bAlamodinI-01, https://archive.org/details/bAlamodinI-02, https://archive.org/details/bAlamodinI-03, https://archive.org/details/bAlamodinI-04, https://archive.org/details/bAlamodinI-05]()                |   |   |   |   |
-| Total   | 78:15:38 | 45953           | M:20, F:07 |                 |                                                                                                                                                                                                                                          |   |   |   
+| Total   | 78:15:38 | 45953           | M:20, F:07 |                 |                                                                                                                                                                                                                                          |   |   |   |   |
+
 ### **Installation and setup**
 
 - Clone the repository
 - download the trained model from [this link](https://drive.google.com/drive/folders/16kncbDUONtR0ARkTn6unksejkz53xIOS?usp=sharing) , and place it in the Flask_API folder.
 
-> git clone
+> git clone https://github.com/vinit620/sanskrit_asr.git
 
 ### **Install dependencies**
->pip install -r requirements.txt
+
+> pip install -r requirements.txt
 
 ### **Run the application server**
->python server.py
+
+> python server.py
 
 ### **Run the client file**
->python client.py
+
+> python client.py
+
+## Model training results
+
+[20230321_100526_result.jpeg](assets/20230321_100526_result.jpeg)
