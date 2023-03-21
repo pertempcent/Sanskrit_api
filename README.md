@@ -31,3 +31,18 @@
 | 26      | 00:57:10 | 517             | M          | Telegu          | [https://sanskritdocuments.org/sites/manogatam/]()                                                                                                                                                                                       |   |   |   |   |
 | 27      | 01:04:06 | 737             | M          | Hindi           | [https://archive.org/details/bAlamodinI-01, https://archive.org/details/bAlamodinI-02, https://archive.org/details/bAlamodinI-03, https://archive.org/details/bAlamodinI-04, https://archive.org/details/bAlamodinI-05]()                |   |   |   |   |
 | Total   | 78:15:38 | 45953           | M:20, F:07 |                 |                                                                                                                                                                                                                                          |   |   |   
+### **Installation and setup**
+
+- Clone the repository
+- download the trained model from [this link](https://drive.google.com/drive/folders/16kncbDUONtR0ARkTn6unksejkz53xIOS?usp=sharing) , and place it in the Flask_API folder.
+
+> git clone
+
+### **Install dependencies**
+>pip install -r requirements.txt
+
+### **Run the application server**
+>python server.py
+
+### **Run the client file**
+>python client.py
